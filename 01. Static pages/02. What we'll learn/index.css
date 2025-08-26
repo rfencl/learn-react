@@ -39,6 +39,13 @@ main {
     background-position: right 70%;
 }
 
+.main-content {
+    padding: 60px 30px;
+    background-image: url(/images/react-logo-half.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 main > h1 {
     margin: 0;
     font-size: 2.4rem;
